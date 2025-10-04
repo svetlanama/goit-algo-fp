@@ -346,3 +346,5 @@ pip install matplotlib numpy
 ## Ліцензія
 
 Цей проект створено в навчальних цілях для демонстрації алгоритмів оптимізації.
+![task6.png](img%2Ftask6.png)
+![task6.1.png](img%2Ftask6.1.png)

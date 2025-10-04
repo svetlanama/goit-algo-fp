@@ -168,3 +168,6 @@ heap.visualize_operation(f"Видалено {min_val}", min_val)
 - Валідація введених даних
 - Захист від неправильного вводу
 - Обробка винятків при візуалізації
+
+![task4.png](img%2Ftask4.png)
+![task4.1.png](img%2Ftask4.1.png)
